@@ -1,6 +1,7 @@
 package primerrepoaitorioiniciales;
 /**
  * cambio repositorio
+* segundo cambio 
  */
 import java.util.Scanner;
 
